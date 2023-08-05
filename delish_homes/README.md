@@ -1,12 +1,12 @@
-[DELISH HOMES]
 
+<font size="5">[DELISH HOMES]</font>
 Welcome to DELISH HOMES! This repository contains the code and assets for our home-made food ordering website, where you can explore a variety of delicious dishes prepared with love and care by talented home chefs in your neighborhood.
 
-Here are few screenshots of this project.
+<h2> Here are few screenshots of this project.</h2>
 ![screenshot 1](scr1.png)
 ![screenshot 2](scr2.png)
 ![screenshot 3](scr3.png)
-Table of Contents
+<h2></h2>Table of Contents</h2>
 Introduction
 Features
 Getting Started
