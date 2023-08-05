@@ -1,6 +1,7 @@
 
 <font size="5">[DELISH HOMES]</font>
 Welcome to DELISH HOMES! This repository contains the code and assets for our home-made food ordering website, where you can explore a variety of delicious dishes prepared with love and care by talented home chefs in your neighborhood.
+<h2> click this to open the project </h2>
 <h1> 
 <a href="https://delishhomes.netlify.app/" target="_blank">Delish Homes </a>
   </h1>
