@@ -4,11 +4,7 @@ Welcome to DELISH HOMES! This repository contains the code and assets for our ho
 <h1> 
 <a href="https://delishhomes.netlify.app/" target="_blank">Delish Homes </a>
   </h1>
-<h2> Here are few screenshots of this project.</h2>
 
-![screenshot 1](scr1.png)
-![screenshot 2](scr2.png)
-![screenshot 3](scr3.png)
 # DELISH HOMES - Home-Cooked Meals Platform
 
 ## Table of Contents
